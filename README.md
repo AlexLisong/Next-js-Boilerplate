@@ -167,6 +167,8 @@ For your information, all dependencies are updated every month.
 Then, you can run the project locally in development mode with live reload by executing:
 
 ```shell
+set NODE_ENV=development
+and then
 npm run dev
 ```
 
